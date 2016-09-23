@@ -1,0 +1,10 @@
+body {
+  padding: 20px;
+  margin: 0;
+}
+
+.btn-fb {
+  background: #3b5998;
+  color: #fff;
+  padding: 10px;
+}
