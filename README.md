@@ -1,7 +1,9 @@
 ## wwcode
 
-第一週投影片: https://speakerdeck.com/winwu/2016-html-css-qian-duan-ji-chu-jiang-zuo-1
-第二週投影片: https://speakerdeck.com/winwu/css-qian-duan-ji-chu-jiang-zuo-2
+* 第一週投影片: https://speakerdeck.com/winwu/2016-html-css-qian-duan-ji-chu-jiang-zuo-1
+* 第二週投影片: https://speakerdeck.com/winwu/css-qian-duan-ji-chu-jiang-zuo-2
+* 第三週投影片: https://speakerdeck.com/winwu/css-qian-duan-ji-chu-jiang-zuo-3
+
 
 ### 工具:
 * 線上 diff: https://www.diffchecker.com/
