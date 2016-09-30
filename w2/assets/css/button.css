@@ -8,3 +8,58 @@ body {
   color: #fff;
   padding: 10px;
 }
+
+.btn-fb:hover {
+  background-color: #000000;
+}
+
+.btn-fb:active,
+.btn-fb:visited {
+  background-color: #FF0000;
+}
+
+
+.btn-twitter {
+  background-color: #326ada;
+  color: #fff;
+}
+
+.btn-register {
+  background-color: pink;
+  color: #333333;
+}
+
+.btn {
+  padding: 10px;
+  text-decoration: none;
+}
+
+.btn-round {
+  border-radius: 10px 10px 10px 10px; 
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  background: red;
+  margin-top: 50px;
+  border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
